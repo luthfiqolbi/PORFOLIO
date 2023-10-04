@@ -390,6 +390,7 @@ span{
     grid-template-columns: repeat(auto-fit, minmax(200px, auto));
     align-items: center;
     gap: 5rem;
+    margin-top: 250px;
 }
 .left-contact{
     display: flex;
